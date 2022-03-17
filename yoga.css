@@ -1,0 +1,36 @@
+img{
+    height:250px;
+    width: 250px;
+    margin:10px;
+    transition: transform.2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+body{
+    background-color:black;
+    border:solid;
+    border-color: cyan;
+    border-width: 5px;
+}
+#main{
+    background:linear-gradient(to right,cyan,magenta);
+    margin:15px;
+    border-radius: 20px;
+    border-color:aqua;
+    padding:2px;
+}
+h1{
+   font-size:60px;
+   color:black;
+   font-weight:bold;
+   text-decoration:underline;
+}
+#yoga{
+    height:200px;
+    width:200px;
+}
+h2{
+    color:black;
+    font-size:40px;
+}
